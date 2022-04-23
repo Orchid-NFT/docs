@@ -49,7 +49,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
+          },
+          {
+            href: "https://orchid-nft.github.io/front-end/",
+            label: "Website",
+            position: "right"
           },
           {
             href: 'https://github.com/Orchid-NFT',
