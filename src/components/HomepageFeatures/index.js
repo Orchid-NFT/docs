@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Created by your eyes',
+    Svg: require('@site/static/img/undraw_adventure_re_ncqp.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        All NFTs are minted based on the location of where you are in the nature reservation area.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Ever-evolving NFTs',
+    Svg: require('@site/static/img/undraw_season_change_f99v.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Every NFT evolves over time based on the quality of air, water and fauna of the area
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Created Together',
+    Svg: require('@site/static/img/undraw_team_work_k-80-m.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Orchid works together with other blockchains, such as <a href="https://www.planetwatch.io/">PlantWatch</a> in order to get to know more about the nature you're living in.
       </>
     ),
   },

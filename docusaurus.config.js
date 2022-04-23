@@ -13,7 +13,7 @@ const config = {
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/orchid_w_background.svg',
   organizationName: 'orchid-nft', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
@@ -42,7 +42,7 @@ const config = {
         title: 'Orchid',
         logo: {
           alt: 'Orchid Logo',
-          src: 'img/logo.svg',
+          src: 'img/orchid_w_background.svg',
         },
         items: [
           {
